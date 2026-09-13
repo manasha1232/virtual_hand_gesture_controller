@@ -1,0 +1,10 @@
+{
+    "video_source": "sample_hand_gestures",
+    "total_frames_processed": 180,
+    "total_time_seconds": 2.12,
+    "average_fps": 84.9,
+    "gesture_frequency": {
+        "OPEN_PALM": 180
+    },
+    "output_video": "output\\sample_hand_gestures_gesture_output.mp4"
+}
